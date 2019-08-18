@@ -1,0 +1,5 @@
+train (t-lxnmtcme0y4wel6ghkj2thcgo) {
+  utterance ("[g:RecentSearch] (이틀 전)[v:time.DateTimeExpression]에 올라온 영상 찾아줘")
+  plan (Y2BmUCnISaxML8ovzUvRS8kuz4mvzC8tKU1K1QtKTU7NKwlOTSxKzmDQxKUKIg9RG5aZkprPIF2WWaZXkpmbqueSWJIaAmS4VhQUpRYXZ+bnMTAxMAIxA5BkZAABJggGAA==)
+  last-modified (1566121915050)
+}

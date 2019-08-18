@@ -1,0 +1,8 @@
+hints {
+  uncategorized {
+    utterance (최근 영상 보여줘)
+    utterance (오늘 올라온 영상 찾아줘)
+    utterance (오늘 영상 보여줘)
+    utterance (어제 나온 영상 확인해줘)
+  }
+}

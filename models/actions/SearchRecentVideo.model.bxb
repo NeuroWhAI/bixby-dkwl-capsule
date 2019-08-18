@@ -1,0 +1,11 @@
+action (SearchRecentVideo) {
+  description (시간 정보로 최근 영상을 조회)
+  type (Search)
+  collect {
+    input (time) {
+      type (time.DateTimeExpression)
+      min (Optional) max (One)
+    }
+  }
+  output (RecentSearch)
+}

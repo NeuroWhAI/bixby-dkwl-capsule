@@ -1,0 +1,7 @@
+structure (RecentSearch) {
+  description (최근 영상 검색 결과)
+  property (video) {
+    type (Video)
+    min (Optional) max (Many)
+  }
+}

@@ -1,0 +1,23 @@
+capsule {
+  id (neurowhai3.dkwl_youtube)
+  version (0.1.0)
+  format (3)
+  targets {
+    target (bixby-mobile-ko-KR)
+  }
+  store-sections {
+    section (MoviesAndTV)
+  }
+  capsule-imports {
+    import (viv.time) {
+      as (time) version (2.89.17)     
+    }
+  }
+  runtime-flags {
+    no-filtering-with-validation
+    modern-default-view-behavior
+    concepts-inherit-super-type-features
+    modern-prompt-rejection
+    support-halt-effect-in-computed-inputs
+  }
+}
