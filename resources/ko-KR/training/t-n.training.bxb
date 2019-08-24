@@ -1,0 +1,5 @@
+train (t-n3dsh40o1jx1pukjd6s5qs0o8) {
+  utterance ("[g:RecentSearch] (어제)[v:time.DateTimeExpression] 거 찾아줘")
+  plan (Y2BmUMlLLS3KL89IzDTWS8kuz4mvzC8tKU1K1QtKTU7NKwlOTSxKzmDQxKUKIg9RG5aZkprPIF2WWaZXkpmbqueSWJIaAmS4VhQUpRYXZ+bnMTAxMAIxA5BkZAABJggGAA==)
+  last-modified (1566625744131)
+}

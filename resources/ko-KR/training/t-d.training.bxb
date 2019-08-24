@@ -1,0 +1,5 @@
+train (t-dp8bsbtvxt2m50ta5uh3680ep) {
+  utterance ([g:RecentSearch] 동영상 찾아줘)
+  plan (Y2BkUMlLLS3KL89IzDTWS8kuz4mvzC8tKU1K1QtKTU7NKwlOTSxKzmAAAUYQAQA=)
+  last-modified (1566625200583)
+}
