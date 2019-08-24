@@ -1,13 +1,12 @@
 capsule-info {
-  display-name (양아지 YouTube)
+  display-name (양아지 유튜브)
   developer-name (NeuroWhAI)
   icon-asset (/icon.png)
   description ("YouTube 양아지 채널에서 영상을 찾아줍니다.")
-  website-url (https://neurowhai.tistory.com/)
   search-keywords {
     keyword (양아지)
   }
-  dispatch-name (양아지 YouTube)
+  dispatch-name (양아지 유튜브)
   action-bg-color (#B2A096)
   action-fg-color (#FFFFFF)
 }
