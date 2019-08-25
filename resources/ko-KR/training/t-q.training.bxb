@@ -1,5 +1,5 @@
 train (t-qm88861ry1v7jvmfpnkthm0va) {
-  utterance ("[g:RecentSearch] (오늘)[v:time.DateTimeExpression] 올라온 영상 찾아줘")
-  plan (Y2BmUM5LLS3KL89IzNRLyS7Pia/MLy0pTUrVC0pNTs0rCU5NLErOYNDAoQgiDVEalpmSms8gXZZZpleSmZuq55JYkhoCZLhWFBSlFhdn5ucxMDEwAjEDkGRkAAEmCAYA)
-  last-modified (1566117630761)
+  utterance ("[g:RecentSearch] {[g:UploadTime] (오늘)[v:time.DateTimeExpression]} 올라온 영상 찾아줘")
+  plan (Y2BhUMlLLS3KL89IzDTWS8kuz4mvzC8tKU1K1QtKTU7NKwlOTSxKzmDQxKUKIg9RG5aZkprPoIRLaWhBTn5iSkhmbiqDdFlmmV4JkKXnkliSChJyrSgoSi0uzszPY2BmYGRgApIMYJoRSLMAMYjPBJEDAA==)
+  last-modified (1566716251141)
 }

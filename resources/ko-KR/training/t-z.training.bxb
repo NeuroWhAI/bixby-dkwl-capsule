@@ -1,5 +1,5 @@
 train (t-zj3qf67r037atxzno8yb4b2zt) {
-  utterance ("[g:RecentSearch] (오늘)[v:time.DateTimeExpression] 거 보여줘")
-  plan (Y2BmUMlLLS3KL89IzDTWS8kuz4mvzC8tKU1K1QtKTU7NKwlOTSxKzmDQxKUKIg9RG5aZkprPIF2WWaZXkpmbqueSWJIaAmS4VhQUpRYXZ+bnMTAxMAIxA5BkZAABJggGAA==)
-  last-modified (1566625745048)
+  utterance ("[g:RecentSearch] {[g:UploadTime] (오늘)[v:time.DateTimeExpression]} 거 보여줘")
+  plan (Y2BhUMlLLS3KL89IzDTWS8kuz4mvzC8tKU1K1QtKTU7NKwlOTSxKzmDQxKUKIg9RG5aZkprPoIRLaWhBTn5iSkhmbiqDdFlmmV4JkKXnkliSChJyrSgoSi0uzszPY2BmYGRgApIMYJoRSLMAMYjPBJEDAA==)
+  last-modified (1566716227288)
 }

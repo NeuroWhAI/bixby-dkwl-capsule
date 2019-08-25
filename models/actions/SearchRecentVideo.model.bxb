@@ -3,7 +3,7 @@ action (SearchRecentVideo) {
   type (Search)
   collect {
     input (time) {
-      type (time.DateTimeExpression)
+      type (UploadTime)
       min (Optional) max (One)
     }
   }
