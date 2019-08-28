@@ -2,7 +2,7 @@ capsule-info {
   display-name (양아지 유튜브)
   developer-name (NeuroWhAI)
   icon-asset (/icon.png)
-  description ("YouTube 양아지 채널에서 최대 3개까지 영상을 찾아줍니다.")
+  description ("유튜브 양아지 채널에서 최대 3개까지 영상을 찾아줍니다.")
   website-url (https://github.com/NeuroWhAI/bixby-dkwl-capsule)
   search-keywords {
     keyword (양아지)
