@@ -1,5 +1,0 @@
-train (t-cluoklia8ygniwxuew9qxeg2n) {
-  utterance ("[g:RecentSearch] {[g:UploadTime] (오늘)[v:time.DateTimeExpression]} 영상 보여줘")
-  plan (Y2BhUMlLLS3KL89IzDTWS8kuz4mvzC8tKU1K1QtKTU7NKwlOTSxKzmDQxKUKIg9RG5aZkprPoIRLaWhBTn5iSkhmbiqDdFlmmV4JkKXnkliSChJyrSgoSi0uzszPY2BmYGRgApIMYJoRSLMAMYjPBJEDAA==)
-  last-modified (1566715952390)
-}
