@@ -1,0 +1,5 @@
+train (t-c6uz3u4qhrfs02h15bc0b9ql9) {
+  utterance ("[g:RecentSearch] {[g:UploadTime] (오늘)[v:time.DateTimeExpression]} 영상 보여줘")
+  plan (Y2BhUMhLLS3KL89IzDTWS8kuz0nOSMzTC0pNTs0rCU5NLErOYFDFpgIiB1EXlpmSms8gh01ZaEFOfmJKSGZuKoN0WWaZXgmQpeeSWJIKEnKtKChKLS7OzM9jYGZgZGACkgxgmhFIswAxiM8EkQMA)
+  last-modified (1567225299596)
+}
