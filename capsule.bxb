@@ -1,6 +1,6 @@
 capsule {
   id (neurowhai3.dkwlchan)
-  version (0.1.5)
+  version (0.1.6)
   format (3)
   targets {
     target (bixby-mobile-ko-KR)
@@ -10,7 +10,7 @@ capsule {
   }
   capsule-imports {
     import (viv.time) {
-      as (time) version (2.89.17)     
+      as (time) version (3.0.3)     
     }
   }
   runtime-flags {
