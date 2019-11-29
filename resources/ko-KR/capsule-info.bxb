@@ -7,11 +7,7 @@ capsule-info {
   search-keywords {
     keyword (양아지)
   }
-  dispatch-name (양아지 유튜브)
-  dispatch-aliases {
-    alias (양아지 유투브)
-    alias (양아지 YouTube)
-  }
+  dispatch-name (양아지 YouTube)
   action-bg-color (#B2A096)
   action-fg-color (#FFFFFF)
 }

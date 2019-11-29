@@ -1,6 +1,6 @@
 capsule {
   id (neurowhai3.dkwlchan)
-  version (0.1.7)
+  version (0.1.9)
   format (3)
   targets {
     target (bixby-mobile-ko-KR)
@@ -10,7 +10,7 @@ capsule {
   }
   store-countries {
     only {
-      allow (KO)
+      allow (KR)
     }
   }
   capsule-imports {

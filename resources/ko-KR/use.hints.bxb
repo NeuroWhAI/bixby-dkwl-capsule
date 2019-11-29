@@ -1,7 +1,7 @@
 hints {
   uncategorized {
-    hint ("양아지 유튜브에서 최근 영상 보여줘")
-    hint ("양아지 유튜브에서 오늘 올라온 영상 찾아줘")
-    hint ("양아지 유튜브에서 어제 나온 영상 확인해줘")
+    hint ("양아지 YouTube에서 최근 영상 보여줘")
+    hint ("양아지 YouTube에서 오늘 올라온 영상 찾아줘")
+    hint ("양아지 YouTube에서 어제 나온 영상 확인해줘")
   }
 }
