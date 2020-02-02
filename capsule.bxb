@@ -1,6 +1,6 @@
 capsule {
   id (neurowhai3.dkwlchan)
-  version (0.1.11)
+  version (0.1.12)
   format (3)
   targets {
     target (bixby-mobile-ko-KR)

@@ -28,7 +28,7 @@ module.exports.function = function searchRecent (time) {
 
     videoList.push({
       url: "https://www.youtube.com/watch?v=" + video.id,
-      title: video.title,
+      title: decode(video.title),
       thumbnail: video.img_url,
     })
   }
@@ -50,4 +50,13 @@ function convertExprToDateTime(expr) {
   }
 
   return null;
+}
+
+function decode(str) {
+  return str
+    .replace(new RegExp("&amp;", "g"), "&")
+    .replace(new RegExp("&lt;", "g"), "<")
+    .replace(new RegExp("&gt;", "g"), ">")
+    .replace(new RegExp("&apos;", "g"), "\'")
+    .replace(new RegExp("&quot;", "g"), "\"");
 }
