@@ -1,6 +1,6 @@
 capsule {
   id (neurowhai3.dkwlchan)
-  version (0.1.12)
+  version (0.1.13)
   format (3)
   targets {
     target (bixby-mobile-ko-KR)
@@ -16,7 +16,7 @@ capsule {
   capsule-imports {
     // https://bixbydevelopers.com/dev/docs/dev-guide/developers/library
     import (viv.time) {
-      as (time) version (3.1.23)     
+      as (time) version (3.1.48)     
     }
   }
   runtime-version (2)
