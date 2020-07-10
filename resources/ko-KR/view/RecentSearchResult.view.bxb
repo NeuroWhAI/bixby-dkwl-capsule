@@ -4,7 +4,6 @@ result-view {
   render {
     if (size(this.video) > 0) {
       list-of (this.video) {
-        has-details (true)
         where-each (item) {
           layout-macro (VideoCard) {
             param (video) {
